@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Feature: Implementing a user authentication system.
+=======
+Feature: Implementing a user login system.
+>>>>>>> feature-update
